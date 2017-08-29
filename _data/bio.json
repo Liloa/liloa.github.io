@@ -17,22 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "liloa",
+        "url": "http://github.com/liloa"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "umialiloa-ching",
+        "url": "http://linkedin.com/in/umialiloa-ching-267037127/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "noname",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "noname",
         "url": "http://instagram.com/changeme"
       }
     ]
