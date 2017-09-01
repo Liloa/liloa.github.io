@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/fuckMEUP
+title: Cottonball
+permalink: projects/messMEUP
 date: 2014/07/02
 labels:
   - Lisp
