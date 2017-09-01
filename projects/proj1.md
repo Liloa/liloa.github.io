@@ -13,7 +13,7 @@ summary: One of my first ICS projects that I collaborated with a classmate to re
 ---
 One of my first ICS projects that I collaborated with a classmate to recreate a version of duck hunt
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/duck_1.png">
   <img class="ui image" src="../images/duck_suck.jpg">
 </div>
