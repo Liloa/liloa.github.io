@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/duck_2s.png
 title: ICS_111_project
 permalink: projects/duck
