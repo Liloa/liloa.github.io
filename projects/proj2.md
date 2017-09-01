@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/state.png
-title: "Fun" with States
+title: Fun with States
 permalink: projects/states
 date: 2016
 labels:
