@@ -2,24 +2,25 @@
 layout: project
 type: project
 published: true
-image: images/temporary.png
+image: images/state.png
 title: Edited
-permalink: projects/vacayno
+permalink: projects/states
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - JAVA
+  - Stub
+ 
+summary: Another attempt at ICS 111 while using a finite state machine 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/duck_1.png">
+<img class="ui large right floated rounded image" src="../images/state_1.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This was a very interesting attempt at creating a 2d platform game that went very wrong in some very weird ways. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Project description availible [HERE](https://docs.google.com/document/d/1rg8TkZsJUn0Swfe3XWx2Ru2CkJWyKbPslaPlBqPdoHw/edit?usp=sharing)
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Here you can see our [Example](https://www.youtube.com/watch?v=coXSSwqu-tQ)
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Though I am planning to go back to this project and put in more work to make it more functional and acceptable as a project.
+
+Source Code coming to a github near you.
