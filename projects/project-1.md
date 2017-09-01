@@ -22,7 +22,7 @@ You can view a project description [Project](https://docs.google.com/document/d/
 
 You can view an example at [Youtube](https://www.youtube.com/watch?v=5d9tguRUmH4).
 
-Code repository will be availible soon:
+Source Code will be availible soon on github.
 
 
 
