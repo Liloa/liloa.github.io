@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/temporary.jpg
+image: images/duck_2s.png
 title: ICS 111 project
 permalink: projects/duck
 date: 2015
@@ -12,8 +12,8 @@ summary: One of my first ICS projects that I collaborated with a classmate to re
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/duck_1.png">
-  <img class="ui image" src="../images/duck_suck.jpg">
+  <img class="ui image" src="../images/duck_1s.png">
+  <img class="ui image" src="../images/duck_sucks.jpg">
 </div>
 
 You can view a project description [Project](https://docs.google.com/document/d/1eEwh4Opjy3Znyaa7l_FlEpAkc-zOMjETIUnvu6G-C5I/edit?usp=sharing).
