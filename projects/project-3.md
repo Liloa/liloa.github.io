@@ -4,7 +4,7 @@ type: project
 image: images/cotton-square.png
 title: Cotton
 permalink: projects/fuckMEUP
-date: 2014
+date: 2014/07/02
 labels:
   - Lisp
   - GitHub
