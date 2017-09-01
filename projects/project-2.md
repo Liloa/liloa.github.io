@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/temporary.png
-title: Vacay
+title: Edited
 permalink: projects/vacay
 date: 2015
 labels:
