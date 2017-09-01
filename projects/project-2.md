@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/temporary.png
 title: Edited
 permalink: projects/vacayno
