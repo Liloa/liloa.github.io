@@ -3,9 +3,9 @@ layout: project
 type: project
 published: true
 image: images/state.png
-title: Edited
+title: "Fun" with States
 permalink: projects/states
-date: 2015
+date: 2016
 labels:
   - JAVA
   - Stub
