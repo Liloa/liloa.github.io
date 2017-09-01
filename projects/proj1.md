@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/duck_2s.png
 title: ICS 111 project
-permalink: projects/duck
+permalink: projects/ducks
 date: 2015
 labels:
   - JAVA
