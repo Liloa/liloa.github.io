@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/temporary.png
 title: Edited
-permalink: projects/vacay
+permalink: projects/vacayno
 date: 2015
 labels:
   - Javascript
