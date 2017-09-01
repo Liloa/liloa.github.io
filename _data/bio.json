@@ -65,54 +65,40 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Department of Economics",
+      "position": "Student Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-26-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assists office secretary with tasts in the office",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Various Malama ʻĀina Events",
+      "website": "N/A",
+      "position": "Mea Hana",
+      "startDate": "2015-09-025",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Volunteer working in various community events",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Papa Hana Kuaʻola",
+        "Ka Papa Loʻi ʻo Kānewai",
+        "Kalaeloa Heritage Park"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "College of Opportunities Program",
+      "website": "https://hawaii.edu/cop",
+      "position": "Student Recruiter",
+      "startDate": "Fall 2015",
+      "endDate": "Spring 2016",
+      "summary": "Explained the College Opportunities Program and the Pili Pono Native Hawaiian Scholarship to high school students.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Provided first-hand experience to high school students of varying districts.",
+        "Distributed college information to interested students and answered any questions they may have."
       ]
     }
   ],
