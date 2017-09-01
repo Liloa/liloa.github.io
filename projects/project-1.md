@@ -13,7 +13,6 @@ summary: One of my first ICS projects that I collaborated with a classmate to re
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/duck_1.png">
-  <img class="ui image" src="../images/duck_2.jpg">
   <img class="ui image" src="../images/duck_suck.jpg">
 </div>
 
