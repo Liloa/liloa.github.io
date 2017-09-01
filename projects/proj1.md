@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/duck_2s.png
-title: ICS_111_project
+title: ICS 111 project
 permalink: projects/duck
 date: 2015
 labels:
@@ -11,6 +11,7 @@ labels:
   - stub
 summary: One of my first ICS projects that I collaborated with a classmate to recreate a version of duck hunt
 ---
+One of my first ICS projects that I collaborated with a classmate to recreate a version of duck hunt
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/duck_1.png">
