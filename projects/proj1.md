@@ -15,6 +15,9 @@ One of my first ICS projects that I collaborated with a classmate to recreate a 
 
 <div class="ui large rounded images">
   <img class="ui image" src="../images/duck_1.png">
+</div>
+
+<div class="ui large rounded images">
   <img class="ui image" src="../images/duck_suck.jpg">
 </div>
 
