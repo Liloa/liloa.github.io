@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/duck_2.jpg
+image: images/temporary.jpg
 title: ICS 111 project
 permalink: projects/duck_hunt
 date: 2015
