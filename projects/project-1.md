@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/duck_2s.png
-title: ICS 111 project
+title: ICS_111_project
 permalink: projects/duck
 date: 2015
 labels:
