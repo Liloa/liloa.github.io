@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/temporary.jpg
 title: ICS 111 project
-permalink: projects/duck_hunt
+permalink: projects/duck
 date: 2015
 labels:
   - JAVA
