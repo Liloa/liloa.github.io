@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cotton-square.png
 title: Cotton
-permalink: projects/cotton
+permalink: projects/fuckMEUP
 date: 2014
 labels:
   - Lisp
