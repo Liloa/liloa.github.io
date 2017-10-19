@@ -10,13 +10,13 @@ labels:
 
 
 
-Final Project Idea: ___
+Final Project Idea: resource-repository
 
 The Problem: University of Hawai’i students often look to external resources to learn difficult material and do not find any resources relevant to what they would like to learn more about because of the broadness of information availible on the internet
 
 The Solution: Create an online repository where students can login to view and submit links to various online resources.
 
-The ___ will have a submit option, a view option, and an edit button
+The resource-repository will have a submit option, a view option, and an edit button
 
 The submission will take in details that the resource has helped them. Some details can be as follows; department, class, teacher, subject, optional notes. After the submission has been entered into the website a moderator would have to approve the information to see that it is not an invalid link.
 
