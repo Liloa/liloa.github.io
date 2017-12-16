@@ -52,7 +52,10 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "Meteor",
+        "MongoDB"
       ]
     }
   ],
@@ -75,7 +78,7 @@
       "website": "https://economics.hawaii.edu",
       "startDate": "2017-26-06",
       "endDate": "Present",
-      "summary": "Assists office secretary with tasks in the office",
+      "summary": "Assists office secretary with tasks that keeps the office in working order",
       "highlights": [
       ]
     }
