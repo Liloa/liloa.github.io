@@ -6,7 +6,7 @@
     "email": "uc@hawaii.edu",
     "phone": "808-321-7090",
     "website": "https://liloa.github.io",
-    "summary": "I am studying for a B.A. in Hawaiian Language and also in Computer Science at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2019.",
+    "summary": "I am a recent graduate with a B.A. in Hawaiian Language and in Computer Science at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2019.",
     "location": {
       "address": "73-998 Ahulani St",
       "postalCode": "96740",
@@ -77,8 +77,18 @@
       "position": "Student Assistant",
       "website": "https://economics.hawaii.edu",
       "startDate": "2017-26-06",
-      "endDate": "Present",
+      "endDate": "2018-31-03",
       "summary": "Assists office secretary with tasks that keeps the office in working order",
+      "highlights": [
+      ]
+    },
+        {
+      "company": "UH Manoa College Opportunities Program",
+      "position": "Student Assistant",
+      "website": "https://hawaii.edu/cop",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-15",
+      "summary": "Served as a student ambassador for COP and Manawa Kūpono Native Hawaiian Project at outreach and recruitment sessions, orientations, and general gathering of students. Provide limited peer advising in COP office, which includes assisting students with general information on degree requirements, registration, and resources on campus. Provide assistance with the Manawa Kūpono Native Hawaiian scholarship program. Handle front desk duties such as answering phone calls and in-person inquiries, disseminating program information, and scheduling appointments. Run errands on campus as needed. Perform other duties as assigned.",
       "highlights": [
       ]
     }
@@ -113,13 +123,13 @@
   "awards": [
     {
       "title": "Makalapua ʻImi Naauao",
-      "date": "2016-Present",
+      "date": "2016-2019",
       "awarder": "Native Hawaiian Student Services",
       "summary": "Pilot scholarship program awarded to incoming Native Hawaiian freshmen and continuing sohpomores at the University of Hawaiʻi at Mānoa in the 2016/2017 school year."
     },
     {
       "title": "Kuaʻana Native Hawaiian tuition waiver",
-      "date": "2016-Present",
+      "date": "2016-2018",
       "awarder": "Kuaʻana Native Hawaiian Student Decelopment Services",
       "summary": "A need based tuition waiver given out to Native Hawaiian Students who attend the University of Hawaiʻi at Mānoa."
     }
